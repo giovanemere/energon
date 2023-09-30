@@ -1,0 +1,732 @@
+{
+    "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
+    "id": "3181881",
+    "self": "https://jira.agile.bns/rest/api/2/issue/3181881",
+    "key": "REPORCMCOL-1194",
+    "fields": {
+        "customfield_13100": null,
+        "customfield_10110": null,
+        "fixVersions": [],
+        "customfield_13101": null,
+        "customfield_11201": null,
+        "resolution": {
+            "self": "https://jira.agile.bns/rest/api/2/resolution/10000",
+            "id": "10000",
+            "description": "Work has been completed on this issue.",
+            "name": "Done"
+        },
+        "customfield_10500": null,
+        "customfield_12800": null,
+        "customfield_10501": null,
+        "customfield_10901": null,
+        "customfield_10902": null,
+        "lastViewed": "2022-10-18T19:21:13.959-0400",
+        "customfield_12000": [],
+        "priority": {
+            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+            "name": "Medium",
+            "id": "3"
+        },
+        "labels": [],
+        "customfield_11700": null,
+        "customfield_11303": null,
+        "customfield_11304": null,
+        "customfield_11702": null,
+        "customfield_11305": null,
+        "customfield_11306": null,
+        "customfield_11701": null,
+        "customfield_11704": null,
+        "customfield_11307": null,
+        "aggregatetimeoriginalestimate": null,
+        "timeestimate": null,
+        "customfield_11308": null,
+        "customfield_11703": null,
+        "versions": [],
+        "customfield_11309": null,
+        "customfield_11705": null,
+        "issuelinks": [
+            {
+                "id": "2034475",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034475",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3097199",
+                    "key": "REPORCMCOL-1138",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3097199",
+                    "fields": {
+                        "summary": "Instalación de herramientas, solicitud de accesos y permisos",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/3",
+                            "description": "This issue is being actively worked on at the moment by the assignee.",
+                            "iconUrl": "https://jira.agile.bns/images/icons/statuses/inprogress.png",
+                            "name": "In Progress",
+                            "id": "3",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/4",
+                                "id": 4,
+                                "key": "indeterminate",
+                                "colorName": "yellow",
+                                "name": "In Progress"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/10001",
+                            "id": "10001",
+                            "description": "Created by Jira Software - do not edit or delete. Issue type for a user story.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10315&avatarType=issuetype",
+                            "name": "Story",
+                            "subtask": false,
+                            "avatarId": 10315
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034460",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034460",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181882",
+                    "key": "REPORCMCOL-1195",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181882",
+                    "fields": {
+                        "summary": "Diagrama de aplicaciones",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034462",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034462",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181884",
+                    "key": "REPORCMCOL-1197",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181884",
+                    "fields": {
+                        "summary": "Bitbucket Webhook",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034463",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034463",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181885",
+                    "key": "REPORCMCOL-1198",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181885",
+                    "fields": {
+                        "summary": "Jfrog Artifactory",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034464",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034464",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181886",
+                    "key": "REPORCMCOL-1199",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181886",
+                    "fields": {
+                        "summary": "Jenkins Release",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034465",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034465",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181887",
+                    "key": "REPORCMCOL-1200",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181887",
+                    "fields": {
+                        "summary": "Jenkins DevOps",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034466",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034466",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181888",
+                    "key": "REPORCMCOL-1201",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181888",
+                    "fields": {
+                        "summary": "Sterling",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034473",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034473",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181894",
+                    "key": "REPORCMCOL-1206",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181894",
+                    "fields": {
+                        "summary": "PAM",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/10000",
+                            "description": "",
+                            "iconUrl": "https://jira.agile.bns/images/icons/subtask.gif",
+                            "name": "To Do",
+                            "id": "10000",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/2",
+                                "id": 2,
+                                "key": "new",
+                                "colorName": "blue-gray",
+                                "name": "To Do"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            },
+            {
+                "id": "2034461",
+                "self": "https://jira.agile.bns/rest/api/2/issueLink/2034461",
+                "type": {
+                    "id": "10300",
+                    "name": "Linked to",
+                    "inward": "Linked to",
+                    "outward": "Linked to",
+                    "self": "https://jira.agile.bns/rest/api/2/issueLinkType/10300"
+                },
+                "outwardIssue": {
+                    "id": "3181883",
+                    "key": "REPORCMCOL-1196",
+                    "self": "https://jira.agile.bns/rest/api/2/issue/3181883",
+                    "fields": {
+                        "summary": "Permisos de Firewall",
+                        "status": {
+                            "self": "https://jira.agile.bns/rest/api/2/status/3",
+                            "description": "This issue is being actively worked on at the moment by the assignee.",
+                            "iconUrl": "https://jira.agile.bns/images/icons/statuses/inprogress.png",
+                            "name": "In Progress",
+                            "id": "3",
+                            "statusCategory": {
+                                "self": "https://jira.agile.bns/rest/api/2/statuscategory/4",
+                                "id": 4,
+                                "key": "indeterminate",
+                                "colorName": "yellow",
+                                "name": "In Progress"
+                            }
+                        },
+                        "priority": {
+                            "self": "https://jira.agile.bns/rest/api/2/priority/3",
+                            "iconUrl": "https://jira.agile.bns/images/icons/priorities/medium.svg",
+                            "name": "Medium",
+                            "id": "3"
+                        },
+                        "issuetype": {
+                            "self": "https://jira.agile.bns/rest/api/2/issuetype/3",
+                            "id": "3",
+                            "description": "A task that needs to be done.",
+                            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10318&avatarType=issuetype",
+                            "name": "Task",
+                            "subtask": false,
+                            "avatarId": 10318
+                        }
+                    }
+                }
+            }
+        ],
+        "assignee": {
+            "self": "https://jira.agile.bns/rest/api/2/user?username=s2209411",
+            "name": "s2209411",
+            "key": "JIRAUSER63369",
+            "emailAddress": "eduart.doria@scotiabank.com.co",
+            "avatarUrls": {
+                "48x48": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=48",
+                "24x24": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=24",
+                "16x16": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=16",
+                "32x32": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=32"
+            },
+            "displayName": "EDUART LUIS DORIA ACEVEDO",
+            "active": false,
+            "timeZone": "America/Toronto"
+        },
+        "status": {
+            "self": "https://jira.agile.bns/rest/api/2/status/43312",
+            "description": "Este estado es administrado internamente por Jira Software",
+            "iconUrl": "https://jira.agile.bns/",
+            "name": "CERTIFICADO",
+            "id": "43312",
+            "statusCategory": {
+                "self": "https://jira.agile.bns/rest/api/2/statuscategory/3",
+                "id": 3,
+                "key": "done",
+                "colorName": "green",
+                "name": "Done"
+            }
+        },
+        "components": [
+            {
+                "self": "https://jira.agile.bns/rest/api/2/component/38816",
+                "id": "38816",
+                "name": "Automation"
+            }
+        ],
+        "customfield_13200": 0.0,
+        "customfield_10332": null,
+        "customfield_11300": null,
+        "customfield_11301": null,
+        "customfield_11302": null,
+        "archiveddate": null,
+        "customfield_10324": null,
+        "customfield_10720": null,
+        "customfield_10325": null,
+        "customfield_10600": null,
+        "customfield_10721": null,
+        "customfield_10601": null,
+        "customfield_10326": null,
+        "customfield_10722": null,
+        "customfield_10723": null,
+        "customfield_12900": null,
+        "customfield_10602": null,
+        "customfield_10327": null,
+        "customfield_10603": null,
+        "customfield_10724": null,
+        "customfield_10328": null,
+        "aggregatetimeestimate": null,
+        "customfield_10604": null,
+        "customfield_10725": null,
+        "customfield_10329": null,
+        "customfield_10726": null,
+        "customfield_10605": null,
+        "customfield_10727": null,
+        "customfield_10606": null,
+        "customfield_10728": null,
+        "creator": {
+            "self": "https://jira.agile.bns/rest/api/2/user?username=s2209411",
+            "name": "s2209411",
+            "key": "JIRAUSER63369",
+            "emailAddress": "eduart.doria@scotiabank.com.co",
+            "avatarUrls": {
+                "48x48": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=48",
+                "24x24": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=24",
+                "16x16": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=16",
+                "32x32": "https://www.gravatar.com/avatar/e1067f69bc56c6bfa797dfca6081ddc0?d=mm&s=32"
+            },
+            "displayName": "EDUART LUIS DORIA ACEVEDO",
+            "active": false,
+            "timeZone": "America/Toronto"
+        },
+        "subtasks": [],
+        "reporter": {
+            "self": "https://jira.agile.bns/rest/api/2/user?username=s1736883",
+            "name": "s1736883",
+            "key": "s1736883",
+            "emailAddress": "laura.picon@scotiabankcolpatria.com",
+            "avatarUrls": {
+                "48x48": "https://jira.agile.bns/secure/useravatar?avatarId=35908",
+                "24x24": "https://jira.agile.bns/secure/useravatar?size=small&avatarId=35908",
+                "16x16": "https://jira.agile.bns/secure/useravatar?size=xsmall&avatarId=35908",
+                "32x32": "https://jira.agile.bns/secure/useravatar?size=medium&avatarId=35908"
+            },
+            "displayName": "Laura Picon Acosta",
+            "active": true,
+            "timeZone": "America/Bogota"
+        },
+        "customfield_12100": null,
+        "aggregateprogress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10320": null,
+        "customfield_10321": null,
+        "customfield_10322": null,
+        "customfield_10323": null,
+        "customfield_12217": null,
+        "customfield_10710": null,
+        "customfield_12216": null,
+        "customfield_10711": null,
+        "customfield_11801": null,
+        "customfield_10712": null,
+        "customfield_11800": null,
+        "customfield_12218": null,
+        "customfield_10714": null,
+        "customfield_10715": null,
+        "customfield_10716": null,
+        "customfield_10717": null,
+        "customfield_10718": null,
+        "progress": {
+            "progress": 0,
+            "total": 0
+        },
+        "customfield_10719": null,
+        "votes": {
+            "self": "https://jira.agile.bns/rest/api/2/issue/REPORCMCOL-1194/votes",
+            "votes": 0,
+            "hasVoted": false
+        },
+        "worklog": {
+            "startAt": 0,
+            "maxResults": 20,
+            "total": 0,
+            "worklogs": []
+        },
+        "archivedby": null,
+        "issuetype": {
+            "self": "https://jira.agile.bns/rest/api/2/issuetype/10001",
+            "id": "10001",
+            "description": "Created by Jira Software - do not edit or delete. Issue type for a user story.",
+            "iconUrl": "https://jira.agile.bns/secure/viewavatar?size=xsmall&avatarId=10315&avatarType=issuetype",
+            "name": "Story",
+            "subtask": false,
+            "avatarId": 10315
+        },
+        "timespent": null,
+        "project": {
+            "self": "https://jira.agile.bns/rest/api/2/project/23608",
+            "id": "23608",
+            "key": "REPORCMCOL",
+            "name": "DevSecOps",
+            "projectTypeKey": "software",
+            "avatarUrls": {
+                "48x48": "https://jira.agile.bns/secure/projectavatar?pid=23608&avatarId=34819",
+                "24x24": "https://jira.agile.bns/secure/projectavatar?size=small&pid=23608&avatarId=34819",
+                "16x16": "https://jira.agile.bns/secure/projectavatar?size=xsmall&pid=23608&avatarId=34819",
+                "32x32": "https://jira.agile.bns/secure/projectavatar?size=medium&pid=23608&avatarId=34819"
+            }
+        },
+        "customfield_12211": null,
+        "customfield_11001": null,
+        "customfield_12210": null,
+        "customfield_11002": null,
+        "customfield_12213": null,
+        "aggregatetimespent": null,
+        "customfield_12212": null,
+        "customfield_12215": null,
+        "customfield_12214": null,
+        "customfield_11116": null,
+        "customfield_12206": null,
+        "customfield_12205": null,
+        "customfield_12208": null,
+        "customfield_10700": null,
+        "customfield_10701": null,
+        "customfield_12207": null,
+        "customfield_10305": null,
+        "customfield_10702": null,
+        "customfield_10306": null,
+        "customfield_10703": null,
+        "customfield_10307": null,
+        "customfield_12209": null,
+        "customfield_10308": null,
+        "customfield_10704": null,
+        "resolutiondate": "2022-10-18T16:36:42.946-0400",
+        "customfield_10706": null,
+        "customfield_10707": null,
+        "workratio": -1,
+        "customfield_10708": null,
+        "customfield_10709": null,
+        "watches": {
+            "self": "https://jira.agile.bns/rest/api/2/issue/REPORCMCOL-1194/watchers",
+            "watchCount": 1,
+            "isWatching": false
+        },
+        "created": "2020-12-19T16:30:14.812-0500",
+        "customfield_12200": null,
+        "customfield_12202": null,
+        "customfield_12201": null,
+        "customfield_10300": null,
+        "customfield_12204": null,
+        "customfield_12203": null,
+        "customfield_11502": null,
+        "customfield_13009": null,
+        "customfield_13008": null,
+        "customfield_11501": null,
+        "customfield_10810": null,
+        "customfield_11900": "{summaryBean=com.atlassian.jira.plugin.devstatus.rest.SummaryBean@4322d27a[summary={pullrequest=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@61688f62[overall=PullRequestOverallBean{stateCount=0, state='OPEN', details=PullRequestOverallDetails{openCount=0, mergedCount=0, declinedCount=0}},byInstanceType={}], build=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@65ef77d0[overall=com.atlassian.jira.plugin.devstatus.summary.beans.BuildOverallBean@4059f790[failedBuildCount=0,successfulBuildCount=0,unknownBuildCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], review=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@361fce92[overall=com.atlassian.jira.plugin.devstatus.summary.beans.ReviewsOverallBean@58efccf2[stateCount=0,state=<null>,dueDate=<null>,overDue=false,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], deployment-environment=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@46a071c8[overall=com.atlassian.jira.plugin.devstatus.summary.beans.DeploymentOverallBean@494afbfb[topEnvironments=[],showProjects=false,successfulCount=0,count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], repository=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@1e9d71e[overall=com.atlassian.jira.plugin.devstatus.summary.beans.CommitOverallBean@27c7038d[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}], branch=com.atlassian.jira.plugin.devstatus.rest.SummaryItemBean@622c088c[overall=com.atlassian.jira.plugin.devstatus.summary.beans.BranchOverallBean@7c27b211[count=0,lastUpdated=<null>,lastUpdatedTimestamp=<null>],byInstanceType={}]},errors=[],configErrors=[]], devSummaryJson={\"cachedValue\":{\"errors\":[],\"configErrors\":[],\"summary\":{\"pullrequest\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":\"OPEN\",\"details\":{\"openCount\":0,\"mergedCount\":0,\"declinedCount\":0,\"total\":0},\"open\":true},\"byInstanceType\":{}},\"build\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"failedBuildCount\":0,\"successfulBuildCount\":0,\"unknownBuildCount\":0},\"byInstanceType\":{}},\"review\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"stateCount\":0,\"state\":null,\"dueDate\":null,\"overDue\":false,\"completed\":false},\"byInstanceType\":{}},\"deployment-environment\":{\"overall\":{\"count\":0,\"lastUpdated\":null,\"topEnvironments\":[],\"showProjects\":false,\"successfulCount\":0},\"byInstanceType\":{}},\"repository\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}},\"branch\":{\"overall\":{\"count\":0,\"lastUpdated\":null},\"byInstanceType\":{}}}},\"isStale\":false}}",
+        "updated": "2022-10-18T19:21:12.627-0400",
+        "timeoriginalestimate": null,
+        "customfield_13001": null,
+        "description": "pruebas",
+        "customfield_13000": null,
+        "customfield_13003": null,
+        "customfield_13002": null,
+        "customfield_13005": null,
+        "customfield_11500": null,
+        "customfield_13007": null,
+        "customfield_13006": null,
+        "timetracking": {},
+        "customfield_10401": null,
+        "customfield_10402": null,
+        "customfield_10006": "REPORCMCOL-1193",
+        "attachment": [],
+        "customfield_10801": null,
+        "customfield_10009": "2|hhhabb:",
+        "customfield_10802": null,
+        "customfield_10803": null,
+        "customfield_10804": null,
+        "customfield_10805": null,
+        "customfield_10806": null,
+        "customfield_10807": null,
+        "customfield_10808": null,
+        "customfield_10809": null,
+        "summary": "CHG963245",
+        "customfield_10000": null,
+        "customfield_10001": null,
+        "customfield_10002": null,
+        "customfield_12300": null,
+        "customfield_10003": null,
+        "customfield_10004": null,
+        "customfield_11600": "",
+        "environment": "_[https://bitbucket.agile.bns/projects/SCCOLDSOC/repos/vdigital_cf/commits?until=refs%2Fheads%2Fsteging%2FCHG00001&merges=include]_\r\n _[https://bitbucket.agile.bns/projects/SCCOLDSOC/repos/vdigital_cc/commits?until=refs%2Fheads%2Ffeature%2FCHG654321&merges=include]_",
+        "duedate": null,
+        "comment": {
+            "comments": [],
+            "maxResults": 0,
+            "total": 0,
+            "startAt": 0
+        }
+    }
+}
