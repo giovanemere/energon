@@ -1,0 +1,46 @@
+SCCOLAPR https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/bdbb8973b5c0427b979e6a5ccb47eb51/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLLAND https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/5428a3ba11b6406f94ff82fdba36aa57/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLKONDO https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/IncomingWebhook/97f66552216d49568412176a3ad02349/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLITDOX https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/2d113f761e9047cca8b2c3413fad4657/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLPARAD https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/1193f6dce9174105941eea3296772fae/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLOYD https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/11d98ba8127446f3a01d8bd107c3751b/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLADS https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/04eaa5a7bd9949278b3f2bce12cb4d7c/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLAGTMK https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/13b36d0289be43d0bc40b456a1ee7422/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLANLY https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/91ecb95630e2428c88f7b481638a7934/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLBSABM https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/8a53fa52c63c4bbe9c6e1bd458febf35/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLBSAPR https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/2a2f4a8fe2de43d592e95c2586105c61/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCD	https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/7707a2b34d374209b0502ca191d68ab9/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCF	https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/a311601347bf4b4687f021b9e5fdb781/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCRM https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/1ab29d93c1ab47aa845ce5e1b362a82b/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCTRLM https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/64b331453a2d43a895823af2f7f1b6e4/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCV https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/9280ff6a9e6d4fdb99c503ba43b403e5/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLDCIMX https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/2e90b191984f4187b99051250a79db88/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLDETEK https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/f1b0fad13d704e45af54108691f8714f/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLFIRDI https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/05889558029d49caaefc2a7430a57a11/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLGREX https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/5d7aceb7b72c4523bc8adab8c80d1d72/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLIIB https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/2c019ab0236042d38cf34b6b074f1138/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLIPC https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/9524eb02599544c9aaad86973ca4974e/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLMIR https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/896938e9cefb4b8d90beb07441668029/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLOCREC https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/dd2514f759f445c9ac98cf860fe9e576/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLORIGI https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/482a27f8098b43b1b7f9d0bf82d1d6b0/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLPF https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/4b71ce2af6be43ab94214e665ef834cd/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLPWRCU https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/4b8edf667aa744169179786da271b2ca/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSAT https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/b9450d0e4e33479d985abb64224eaeb4/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSCS https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/22e81aa39d1844aaa893fb08390af540/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSFC https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/694296d718e941ff9b4faa065b364697/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSFG https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/9003d6f5221344dea68b8e9042f26ba9/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSIFI https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/935b49b4861d41ff968cec3bf736cdba/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSIG https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/88f11d3bcc3c42e3962ea404a981d2de/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLSMP https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/537caacaa8934238bbfa217c6d451475/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLTANDE https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/df2175c3759f4acab2367941a14f201d/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLTIM https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/5e59ad31219a4a9990a1e42d57725001/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLVOLPA https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/4aa00fb143fc4c088179c958f2668378/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCMPNG https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/70f45f2196cf4c60ae0bb412927861b0/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLIVRCO https://scotiabank.webhook.office.com/webhookb2/785d09f8-08e9-4db9-b0a6-7bf8e5a33081@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/a25556f4daa748e8ba784f6cdb217fed/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLPQRE https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/902f6a954c5a4ca5884ce7dbf4b741f9/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLQFLOW https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/83706b9f011442cd8eff49a576ee51ab/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLGYG https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/9d451eee301d4b92b853bc26ac52053f/b9b2ce89-1c6e-46d0-b809-3b3877461bd8
+SCCOLDSOC https://scotiabank.webhook.office.com/webhookb2/dbfcdbce-155a-4525-bac9-fcb340d0c864@8ff33436-4701-4dad-b7d3-3462e99c6889/JenkinsCI/9003d6f5221344dea68b8e9042f26ba9/89b482dc-9cdc-45d3-9775-f125821c78ff
+SCCOLCMSE
+SCCOLPEOPL
+
