@@ -1,0 +1,75 @@
+{
+    "@type": "MessageCard",
+    "@context": "http://schema.org/extensions",
+    "themeColor": "${Color}",
+    "summary": "Release Team Build Execution Notification",
+    "sections": [{
+        "activityTitle": "![TestImage](https://secureservercdn.net/166.62.112.150/pmt.c8a.myftpupload.com/wp-content/uploads/2020/08/taking-responsibility-for-cyber-security-truly-virtual-world-1024x440-1.jpeg)Release Team Build Execution Notification",
+        "activitySubtitle": "CI/CD DevSecOps",
+        "activityImage": "https://dyltqmyl993wv.cloudfront.net/assets/stacks/jenkins/img/jenkins-stack-220x234.png",
+        "facts": [{
+            "name": "App/DB Name:",
+            "value": "${projectName}"
+        },
+        {
+            "name": "Last Commit:",
+            "value": "${JOB_NAME}"
+        },
+        {
+            "name": "Build Number:",
+            "value": "${BUILD_NUMBER}"
+        },
+        {
+            "name": "Status:",
+            "value": "${PipelineStatus}"
+        },
+        {
+            "name": "Change Number:",
+            "value": "${changeNumber}"
+        },
+        {
+            "name": "Branch Type:",
+            "value": "${branchType}"
+        },
+        {
+            "name": "Team:",
+            "value": "${team}"
+        }],
+        "markdown": true
+    }],
+    "potentialAction": [ {
+        "@type": "OpenUri",
+        "name": "Jenkins Link",
+        "targets": [
+            { "os": "default", "uri": "${BUILD_JENKINS_URL}" }
+        ]
+    },
+    {
+        "@type": "OpenUri",
+        "name": "Jira Link",
+        "targets": [
+            { "os": "default", "uri": "${JIRA_URL}" }
+        ]
+    },
+    {
+        "@type": "OpenUri",
+        "name": "Sonar Link",
+        "targets": [
+            { "os": "default", "uri": "${SONAR_URL}" }
+        ]
+    },
+    {
+        "@type": "OpenUri",
+        "name": "Jfrog Link",
+        "targets": [
+            { "os": "default", "uri": "${JfrogURL}" }
+        ]
+    },
+    {
+        "@type": "OpenUri",
+        "name": "Bitbucket Link",
+        "targets": [
+            { "os": "default", "uri": "${TEMP_GIT_URL}" }
+        ]
+    }]
+}
